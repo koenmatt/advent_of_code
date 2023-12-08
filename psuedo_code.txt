@@ -1,0 +1,6 @@
+go along until you find a number
+if a symbol before, or after, it is included, and can be checked off
+
+note the index of each number
+
+when I come across a symbol, check if it qualifies any numbers
